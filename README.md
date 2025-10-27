@@ -1,2 +1,2 @@
 # book-scraper
-Simple project to learn how to web scrape
+A simple project to learn how to web scrape
