@@ -9,4 +9,3 @@ response = requests.get(BASE_URL)
 
 # convert raw html to beautifulsoup object
 soup = BeautifulSoup(response.text, 'html.parser')
-
